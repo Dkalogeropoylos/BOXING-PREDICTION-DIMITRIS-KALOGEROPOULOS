@@ -1,2 +1,2 @@
-# BOXING-PREDICTION-DIMITRIS-KALOGEROPOULOS
-THIS TASK AIMS TO DO PREDICT  BOXING GAMES OUTCOMES
+# BOXING-PREDICTION
+The objective of this work is to build a model that predicts the outcome of a professional boxing matches based on pre-game elements of the boxers involved. The model uses two datasets, one that provides individual characteristics of the athletes, and another that includes data from well-known boxing matches from different time periods. After undergoing data cleaning and feature engineering, the datasets are merged into a single set for training and testing the models.
