@@ -1,0 +1,8 @@
+All the libraries and packages (of Python 3.8.10) that need to be installed, along with the versions required to run the code of boxing-prediction are:
+NumPy version: 1.21.
+pandas version: 1.3.5 
+scikit-learn version: 1.0.2 
+seaborn version: 0.11.2 
+matplotlib version: 3.2.2 
+plotly version: 5.5.0 
+xgboost version: 0.90
